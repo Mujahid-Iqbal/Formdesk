@@ -1,0 +1,49 @@
+FORMDESK — BRANDED DESK CONFIGURATOR PILOT
+Proposed offer · 28 October 2026 · USD
+
+PURPOSE
+Give shoppers an interactive way to explore one desk and send a structured specification for the maker's review. No revenue or conversion result is guaranteed.
+
+IMPLEMENTATION: $500 USD
+$250 after scope agreement to start; $250 after the agreed acceptance checks pass. No payment is collected by this page. Applicable taxes, hosting, domain and third-party email charges are quoted and agreed separately before work begins.
+
+INCLUDED
+- One simple rectangular desk model based on approved references; fixed height.
+- English copy, one logo, brand colours.
+- Up to four surface finishes and two frame colours.
+- Width and depth controls within maker-approved limits and increments.
+- Up to two simple accessories.
+- One currency and one maker-approved price formula or lookup table.
+- Customer quote form delivered to one agreed email inbox through an agreed provider; basic validation and spam protection.
+- One standalone hosted page and a link from the maker's existing website.
+- One consolidated revision round within the original scope.
+- Source handover, deployment instructions and a short walkthrough.
+- Fourteen calendar days of defect fixes after acceptance; feature changes priced separately.
+
+TIMELINE
+Target ten working days after receipt of deposit, approved specification, all assets, and required provider access. Customer review delays pause the schedule. Indicative stages: days 1–2 specification/model; days 3–6 configuration and styling; days 7–8 quote delivery/testing; days 9–10 consolidated revision and handover. A delivery date is confirmed in the agreed scope.
+
+CUSTOMER INPUTS
+Logo, colours, product photos/drawings, product dimensions and increments, finish references, accessory dimensions, prices and approved calculations, quote inbox, provider access and website link access. Customer approves manufacturing feasibility, pricing, product copy and the collection notice/retention requirements for quote data.
+
+ACCEPTANCE
+1. All agreed dimensions, finishes, frame options and accessories change the preview correctly.
+2. Five agreed sample configurations produce the approved expected prices.
+3. Two valid quote requests arrive at the designated inbox with the selected specification; invalid email submissions are blocked.
+4. Maker confirms approved option limits and combinations.
+5. No horizontal overflow at 390px and 1440px widths; core flow works in current Chrome and Safari with WebGL support. Browser/device exceptions documented.
+6. Source, deployment instructions and walkthrough delivered.
+Client submits a single consolidated revision list. Fixes to the agreed scope are completed before final acceptance and balance payment. New scope requires a separate written quote.
+
+OUT OF SCOPE
+Checkout/payment processing, cart integration, platform apps, AR, CAD/manufacturing exports, inventory sync, multiple products, complex/live-edge geometry, photorealistic wood matching, translations, recurring feature work, manufacturing advice, and guaranteed commercial results. The price is an estimate until the desk specification is reviewed and the fixed scope agreed.
+
+OPTIONAL CARE: $39 USD PER MONTH
+Up to 30 minutes of content or pricing updates per month, billed monthly, no minimum term. Unused time does not roll over. Hosting, domain and delivery-provider charges remain separate. Changes beyond the allowance require an agreed quote. Client can instead self-host and maintain using the handed-over source.
+
+CURRENT DEMO VS PAID DELIVERY
+Current demo: generic model, illustrative pricing, browser-local save, PNG export and downloadable brief. No live lead submission, payments, customers or measured outcomes are claimed.
+Paid pilot: the above agreed branding/product/pricing and quote-email delivery, implemented and tested for the selected maker.
+
+NEXT STEP
+Share your product page and approximate requirements with the person who introduced Formdesk, then agree a short scope call. Direct contact email is pending owner configuration. This download does not submit an enquiry, reserve a place, accept a contract, or take payment.
