@@ -1,0 +1,18 @@
+{
+  "name": "formdesk",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22.13.0" },
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1 --port 4173",
+    "build": "next build --webpack",
+    "preview": "python3 -m http.server 4173 --bind 127.0.0.1 --directory out"
+  },
+  "dependencies": {
+    "next": "16.4.3",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "three": "0.186.1"
+  }
+}
